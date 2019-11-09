@@ -20,8 +20,6 @@
 Main Service Folder for NodeJS : fengyun_back
 
 Main Miniprogram Source : fengyun_front
-
-Android Package : Huijiao.apk
 ```
 
 ## Mini Program Overview
@@ -30,5 +28,7 @@ Android Package : Huijiao.apk
 ![](overview2.png)
 
 > Live Site : https://fengquba.cn
+> 
+> Weixin Mini Program : 微信 - 蜂运赛事
 >
 > Contact Developer Email : gong.fei@outlook.com
