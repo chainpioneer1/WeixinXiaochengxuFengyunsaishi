@@ -26,7 +26,8 @@ Android Package : Huijiao.apk
 
 ## Mini Program Overview
 
-![](overview.jpg)
+![](overview1.png)
+![](overview2.png)
 
 > Live Site : https://fengquba.cn
 >
