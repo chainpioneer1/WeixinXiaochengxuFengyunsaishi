@@ -31,4 +31,4 @@ Main Miniprogram Source : fengyun_front
 > 
 > Weixin Mini Program : 微信 - 蜂运赛事
 >
-> Contact Developer Email : pandaworld1985@outlook.com
+> Contact Developer : https://www.linkedin.com/in/astonishgong/
